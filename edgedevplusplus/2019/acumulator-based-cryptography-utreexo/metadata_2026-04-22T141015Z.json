@@ -1,0 +1,192 @@
+{
+    "title": "Acumulator Based Cryptography & UTreexo",
+    "speakers": [
+        "Tadge Dryja"
+    ],
+    "tags": [
+        "proof-systems",
+        "utreexo"
+    ],
+    "type": "video",
+    "loc": "edgedevplusplus/2019",
+    "source_file": "https://www.youtube.com/watch?v=xlKQP9J88uA",
+    "media": "https://www.youtube.com/watch?v=xlKQP9J88uA",
+    "categories": null,
+    "chapters": [
+        [
+            "0",
+            0.0,
+            "Intro"
+        ],
+        [
+            "1",
+            123.0,
+            "About accumulators"
+        ],
+        [
+            "2",
+            141.0,
+            "Tradeoffs"
+        ],
+        [
+            "3",
+            225.0,
+            "Hash Functions"
+        ],
+        [
+            "4",
+            255.0,
+            "Digest Message"
+        ],
+        [
+            "5",
+            309.0,
+            "Saving Hashes"
+        ],
+        [
+            "6",
+            377.0,
+            "What we want"
+        ],
+        [
+            "7",
+            394.0,
+            "accumulators"
+        ],
+        [
+            "8",
+            573.0,
+            "RSA"
+        ],
+        [
+            "9",
+            628.0,
+            "Dynamic"
+        ],
+        [
+            "10",
+            660.0,
+            "RSA Intro"
+        ],
+        [
+            "11",
+            707.0,
+            "RSA Basics"
+        ],
+        [
+            "12",
+            910.0,
+            "Acumulators"
+        ],
+        [
+            "13",
+            1013.0,
+            "Adding Elements"
+        ],
+        [
+            "14",
+            1365.0,
+            "The Good"
+        ],
+        [
+            "15",
+            1446.0,
+            "The Bad"
+        ],
+        [
+            "16",
+            1465.0,
+            "Proof Updates"
+        ],
+        [
+            "17",
+            1597.0,
+            "Individual Proofs"
+        ],
+        [
+            "18",
+            1978.0,
+            "Class Groups"
+        ],
+        [
+            "19",
+            2048.0,
+            "Merkle Trees"
+        ],
+        [
+            "20",
+            2224.0,
+            "UTreexos"
+        ],
+        [
+            "21",
+            2371.0,
+            "Acumulator"
+        ],
+        [
+            "22",
+            2430.0,
+            "The Problem"
+        ],
+        [
+            "23",
+            2490.0,
+            "The Bridge Node"
+        ],
+        [
+            "24",
+            2585.0,
+            "Merkle Tree"
+        ],
+        [
+            "25",
+            2787.0,
+            "Removing"
+        ],
+        [
+            "26",
+            2806.0,
+            "Deleting"
+        ],
+        [
+            "27",
+            3079.0,
+            "Swapping"
+        ],
+        [
+            "28",
+            3194.0,
+            "Bridge Nodes"
+        ],
+        [
+            "29",
+            3345.0,
+            "Logging"
+        ],
+        [
+            "30",
+            3390.0,
+            "Histogram"
+        ],
+        [
+            "31",
+            3537.0,
+            "Proofs"
+        ]
+    ],
+    "date": "2019-09-09",
+    "youtube": {
+        "description": "",
+        "tags": [],
+        "categories": [
+            "Science & Technology"
+        ]
+    },
+    "deepgram_chunks": [
+        "deepgram_chunk_1_of_4_2026-04-22T141625Z.json",
+        "deepgram_chunk_2_of_4_2026-04-22T141639Z.json",
+        "deepgram_chunk_3_of_4_2026-04-22T141653Z.json",
+        "deepgram_chunk_4_of_4_2026-04-22T141715Z.json"
+    ],
+    "deepgram_output": "deepgram_2026-04-22T141716Z.json"
+}
