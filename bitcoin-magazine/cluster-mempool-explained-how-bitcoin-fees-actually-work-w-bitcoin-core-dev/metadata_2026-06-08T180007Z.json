@@ -1,0 +1,90 @@
+{
+    "title": " Cluster Mempool Explained & How Bitcoin Fees Actually Work w/Bitcoin Core Dev",
+    "speakers": null,
+    "tags": null,
+    "type": "video",
+    "loc": "bitcoin-magazine",
+    "source_file": "https://youtu.be/jSkTsPquAPE?si=La7KLwM1JNht8bOv",
+    "media": "https://youtu.be/jSkTsPquAPE?si=La7KLwM1JNht8bOv",
+    "categories": null,
+    "chapters": [
+        [
+            "0",
+            0.0,
+            "Why Bitcoin\u2019s Mempool Has Been Broken"
+        ],
+        [
+            "1",
+            130.0,
+            "The Core Problem with Transaction Ordering"
+        ],
+        [
+            "2",
+            245.0,
+            "Why Eviction Logic Failed Under Load"
+        ],
+        [
+            "3",
+            360.0,
+            "The Limits of Heuristics in Bitcoin Core"
+        ],
+        [
+            "4",
+            500.0,
+            "Replace-By-Fee and Incentive Compatibility"
+        ],
+        [
+            "5",
+            700.0,
+            "Why Recomputing the Entire Mempool Is Impossible"
+        ],
+        [
+            "6",
+            840.0,
+            "Introducing Clusters and the 64-Transaction Limit"
+        ],
+        [
+            "7",
+            1020.0,
+            "How Cluster Mempool Enables Optimal Ordering"
+        ],
+        [
+            "8",
+            1205.0,
+            "Future-Proofing Bitcoin for New Use Cases"
+        ],
+        [
+            "9",
+            1470.0,
+            "Incentives, Miners, and the Long-Term Bitcoin Path"
+        ]
+    ],
+    "description": "Cluster mempool is more than a code refactor, it\u2019s a fundamental rethink of how Bitcoin handles transactions. Pieter Wuille breaks down how grouping related transactions into clusters solves long-standing computational and incentive problems. Shinobi connects the dots between mempool behavior, miner incentives, and future Bitcoin development.\n\n#Bitcoin #BitcoinCore #ClusterMempool \n\n\u2b50\ufe0f\u2694: SIGN UP WITH DUELBITS TODAY FOR A CHANCE TO WIN UP TO 2 BTC: \ud83d\udc49 https://bm.b.tc/YT-Duelbits #ad \n\n\ud83d\udd36 Shinobi - Technical Editor, Bitcoin Magazine\n\ud83d\udd36 Pieter Wuille \u2014 Researcher, Chaincode Labs\n\nChapters: \n 00:00 \u2014 Why Bitcoin\u2019s Mempool Has Been Broken\n 02:10 \u2014 The Core Problem with Transaction Ordering\n 04:05 \u2014 Why Eviction Logic Failed Under Load\n 06:00 \u2014 The Limits of Heuristics in Bitcoin Core\n 08:20 \u2014 Replace-By-Fee and Incentive Compatibility\n 11:40 \u2014 Why Recomputing the Entire Mempool Is Impossible\n 14:00 \u2014 Introducing Clusters and the 64-Transaction Limit\n 17:00 \u2014 How Cluster Mempool Enables Optimal Ordering\n 20:05 \u2014 Future-Proofing Bitcoin for New Use Cases\n 24:30 \u2014 Incentives, Miners, and the Long-Term Bitcoin Path\n\n#PieterWuille #ChaincodeLabs #BitcoinDevelopment #Mempool #BitcoinFees #RBF #BitcoinMining #Layer2 #LightningNetwork #BitcoinInfrastructure #BitcoinMagazine #BitcoinConference\n\nDISCLAIMER: The views and opinions expressed in this show are those of the participants and do not necessarily reflect the official policy or position of BTC Inc., Bitcoin Magazine, or any affiliated entities. This content is provided for informational and educational purposes only and should not be construed as investment, legal, tax, or accounting advice. Nothing contained in this show constitutes a solicitation, recommendation, endorsement, or offer to buy or sell any securities or financial instruments. Viewers should consult their own advisors before making financial or business decisions.",
+    "date": "2026-02-02",
+    "youtube": {
+        "description": "Cluster mempool is more than a code refactor, it\u2019s a fundamental rethink of how Bitcoin handles transactions. Pieter Wuille breaks down how grouping related transactions into clusters solves long-standing computational and incentive problems. Shinobi connects the dots between mempool behavior, miner incentives, and future Bitcoin development.\n\n#Bitcoin #BitcoinCore #ClusterMempool \n\n\u2b50\ufe0f\u2694: SIGN UP WITH DUELBITS TODAY FOR A CHANCE TO WIN UP TO 2 BTC: \ud83d\udc49 https://bm.b.tc/YT-Duelbits #ad \n\n\ud83d\udd36 Shinobi - Technical Editor, Bitcoin Magazine\n\ud83d\udd36 Pieter Wuille \u2014 Researcher, Chaincode Labs\n\nChapters: \n 00:00 \u2014 Why Bitcoin\u2019s Mempool Has Been Broken\n 02:10 \u2014 The Core Problem with Transaction Ordering\n 04:05 \u2014 Why Eviction Logic Failed Under Load\n 06:00 \u2014 The Limits of Heuristics in Bitcoin Core\n 08:20 \u2014 Replace-By-Fee and Incentive Compatibility\n 11:40 \u2014 Why Recomputing the Entire Mempool Is Impossible\n 14:00 \u2014 Introducing Clusters and the 64-Transaction Limit\n 17:00 \u2014 How Cluster Mempool Enables Optimal Ordering\n 20:05 \u2014 Future-Proofing Bitcoin for New Use Cases\n 24:30 \u2014 Incentives, Miners, and the Long-Term Bitcoin Path\n\n#PieterWuille #ChaincodeLabs #BitcoinDevelopment #Mempool #BitcoinFees #RBF #BitcoinMining #Layer2 #LightningNetwork #BitcoinInfrastructure #BitcoinMagazine #BitcoinConference\n\nDISCLAIMER: The views and opinions expressed in this show are those of the participants and do not necessarily reflect the official policy or position of BTC Inc., Bitcoin Magazine, or any affiliated entities. This content is provided for informational and educational purposes only and should not be construed as investment, legal, tax, or accounting advice. Nothing contained in this show constitutes a solicitation, recommendation, endorsement, or offer to buy or sell any securities or financial instruments. Viewers should consult their own advisors before making financial or business decisions.",
+        "tags": [
+            "Bitcoin mempool",
+            "cluster mempool",
+            "Bitcoin Core upgrade",
+            "Pieter Wuille",
+            "Chaincode Labs",
+            "Shinobi Bitcoin",
+            "Bitcoin transaction ordering",
+            "mempool eviction",
+            "Replace By Fee RBF",
+            "Bitcoin fees",
+            "fee bumping",
+            "Bitcoin incentives",
+            "miner incentives",
+            "Bitcoin scalability",
+            "Bitcoin Core development",
+            "Layer 2 Bitcoin",
+            "Lightning Network mempool"
+        ],
+        "categories": [
+            "News & Politics"
+        ]
+    },
+    "deepgram_output": "deepgram_2026-06-08T180124Z.json"
+}
