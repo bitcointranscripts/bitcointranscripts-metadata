@@ -1,0 +1,101 @@
+{
+    "title": "Unlocking Expressivity with OP_CAT",
+    "speakers": [
+        "Andrew Poelstra",
+        "Brandon Black",
+        "Rijndael",
+        "Lisa Neigut"
+    ],
+    "tags": [
+        "op-cat"
+    ],
+    "type": "video",
+    "loc": "bitcoin-2024",
+    "source_file": "https://www.youtube.com/watch?v=mztdh1J6Lpc",
+    "media": "https://www.youtube.com/watch?v=mztdh1J6Lpc",
+    "categories": null,
+    "chapters": [
+        [
+            "0",
+            0.0,
+            "Introduction and Panelist Introductions"
+        ],
+        [
+            "1",
+            180.0,
+            "OpCat and the Power of Covenants"
+        ],
+        [
+            "2",
+            357.0,
+            "The Magic of Covenants in Bitcoin Script"
+        ],
+        [
+            "3",
+            518.0,
+            "Introduction to Covenants in Bitcoin"
+        ],
+        [
+            "4",
+            696.0,
+            "Flexibility in Fee Rates and Vaults"
+        ],
+        [
+            "5",
+            870.0,
+            "The Benefits of CAT in Bitcoin"
+        ],
+        [
+            "6",
+            1031.0,
+            "The Design Space of Opcodes in Bitcoin"
+        ],
+        [
+            "7",
+            1210.0,
+            "The Excitement of Cat in Bitcoin"
+        ],
+        [
+            "8",
+            1387.0,
+            "The Challenges of Expressivity in Programming Languages"
+        ]
+    ],
+    "description": "Explore the exciting world of Bitcoin development with our panel discussion on OpCat, a proposed upgrade that could significantly enhance Bitcoin's functionality. Our experts break down the technical aspects of OpCat, explaining how this simple concatenation operation could enable powerful features like covenants, vaults, and more efficient transaction processing.\n\nSpeakers: Andrew Poelstra - Blockstream, Brandon Black - Swan, Rijndael   - Taproot Wizards and niftynei (Lisa) - Base58\u26d3\ufe0f\ud83d\udd13\n\nLower your time preference and lock-in your Bitcoin 2025 conference tickets today!!! Use promo code BM10 for 10% off your tickets today! \nClick Here: http://b.tc/conference/2025\n\nChapters:\n00:00:00 - Introduction and Panelist Introductions\n00:03:00 - OpCat and the Power of Covenants\n00:05:57 - The Magic of Covenants in Bitcoin Script\n00:08:38 - Introduction to Covenants in Bitcoin\n00:11:36 - Flexibility in Fee Rates and Vaults\n00:14:30 - The Benefits of CAT in Bitcoin\n00:17:11 - The Design Space of Opcodes in Bitcoin\n00:20:10 - The Excitement of Cat in Bitcoin\n00:23:07 - The Challenges of Expressivity in Programming Languages\n\n#Bitcoin #OpCat #CryptoInnovation #BlockchainTechnology #BitcoinDevelopment #Cryptocurrency #BitcoinScript #Covenants #DigitalAssets #CryptoSecurity #SoftFork #BitcoinUpgrade #TransactionIntrospection #CryptoFuture #BitcoinEvolution #BlockchainRevolution #CryptoEducation #BitcoinVaults #ScriptExpressivity #BitcoinImprovement",
+    "date": "2024-08-28",
+    "youtube": {
+        "description": "Explore the exciting world of Bitcoin development with our panel discussion on OpCat, a proposed upgrade that could significantly enhance Bitcoin's functionality. Our experts break down the technical aspects of OpCat, explaining how this simple concatenation operation could enable powerful features like covenants, vaults, and more efficient transaction processing.\n\nSpeakers: Andrew Poelstra - Blockstream, Brandon Black - Swan, Rijndael   - Taproot Wizards and niftynei (Lisa) - Base58\u26d3\ufe0f\ud83d\udd13\n\nLower your time preference and lock-in your Bitcoin 2025 conference tickets today!!! Use promo code BM10 for 10% off your tickets today! \nClick Here: http://b.tc/conference/2025\n\nChapters:\n00:00:00 - Introduction and Panelist Introductions\n00:03:00 - OpCat and the Power of Covenants\n00:05:57 - The Magic of Covenants in Bitcoin Script\n00:08:38 - Introduction to Covenants in Bitcoin\n00:11:36 - Flexibility in Fee Rates and Vaults\n00:14:30 - The Benefits of CAT in Bitcoin\n00:17:11 - The Design Space of Opcodes in Bitcoin\n00:20:10 - The Excitement of Cat in Bitcoin\n00:23:07 - The Challenges of Expressivity in Programming Languages\n\n#Bitcoin #OpCat #CryptoInnovation #BlockchainTechnology #BitcoinDevelopment #Cryptocurrency #BitcoinScript #Covenants #DigitalAssets #CryptoSecurity #SoftFork #BitcoinUpgrade #TransactionIntrospection #CryptoFuture #BitcoinEvolution #BlockchainRevolution #CryptoEducation #BitcoinVaults #ScriptExpressivity #BitcoinImprovement",
+        "tags": [
+            "bitcoin magazine",
+            "Bitcoin News",
+            "Bitcoin Price",
+            "Bitcoin Journalism",
+            "Bitcoin Culture",
+            "Bitcoiners",
+            "Bitcoin Talk",
+            "Cryptocurrency",
+            "Stacking Sats",
+            "Satoshi",
+            "Bitcoin History",
+            "Bitcoin",
+            "OpCat",
+            "cryptocurrency",
+            "blockchain",
+            "Bitcoin script",
+            "covenants",
+            "vaults",
+            "transaction introspection",
+            "soft fork",
+            "Bitcoin upgrade",
+            "digital assets",
+            "crypto security",
+            "Bitcoin development",
+            "blockchain technology",
+            "cryptocurrency innovation"
+        ],
+        "categories": [
+            "Entertainment"
+        ]
+    },
+    "deepgram_output": "deepgram_2026-06-08T183228Z.json"
+}
