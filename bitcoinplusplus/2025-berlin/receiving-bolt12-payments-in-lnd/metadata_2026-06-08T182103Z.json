@@ -1,0 +1,31 @@
+{
+    "title": " Receiving BOLT12 payments in LND ",
+    "speakers": null,
+    "tags": null,
+    "type": "video",
+    "loc": "bitcoinplusplus/2025-berlin",
+    "source_file": "https://youtu.be/GMrpXKyfsWY?si=F8sUoT-HAEXUYB3N",
+    "media": "https://youtu.be/GMrpXKyfsWY?si=F8sUoT-HAEXUYB3N",
+    "categories": null,
+    "chapters": [],
+    "description": "Sign up for one of our upcoming dev conf at https://btcpp.dev\n\nWebsite: https://btcpp.dev/\nX: https://x.com/btcplusplus\nNOSTR: https://iris.to/npub1dwah6u025f2yy9dgwlsndntlfy85vf0t2eze5rdg2mxg99k4mucqxz7c52\n\n#btcplusplus #devconf #bitcoineducation #bitcoinconf #bitcoindev #bitcoinconference #bitcoin #cypherpunks",
+    "date": "2026-01-21",
+    "youtube": {
+        "description": "Sign up for one of our upcoming dev conf at https://btcpp.dev\n\nWebsite: https://btcpp.dev/\nX: https://x.com/btcplusplus\nNOSTR: https://iris.to/npub1dwah6u025f2yy9dgwlsndntlfy85vf0t2eze5rdg2mxg99k4mucqxz7c52\n\n#btcplusplus #devconf #bitcoineducation #bitcoinconf #bitcoindev #bitcoinconference #bitcoin #cypherpunks",
+        "tags": [
+            "btcplusplus",
+            "devconf",
+            "bitcoineducation",
+            "bitcoinconf",
+            "bitcoindev",
+            "bitcoinconference",
+            "bitcoin",
+            "cypherpunks",
+            "niftynei"
+        ],
+        "categories": [
+            "Entertainment"
+        ]
+    },
+    "deepgram_output": "deepgram_2026-06-08T182200Z.json"
+}
