@@ -1,0 +1,31 @@
+{
+    "title": "Design and implementation of Frostsnap the first frost signing device",
+    "speakers": null,
+    "tags": null,
+    "type": "video",
+    "loc": "bitcoinplusplus/sovereignty-edition",
+    "source_file": "https://www.youtube.com/watch?v=WBF-N35Y9Do",
+    "media": "https://www.youtube.com/watch?v=WBF-N35Y9Do",
+    "categories": null,
+    "chapters": [],
+    "description": "Design and implementation of Frostsnap, the first FROST signing device - Lloyd Fournier\n\nYou've got to be very careful applying a new cryptographic scheme to an existing problem because it's so easy to make things worse. FROST, the threshold multisignature scheme with applications to Bitcoin, is no different. Lloyd will reveal the tricks the Frostsnap team used to exploit FROST while hiding (most of) the complexity from the user.\n\nRecorded at POPOP in Taipei, Taiwan during bitcoin++ sovereignty edition.\nFull agenda at https://btcpp.dev/conf/taipei#agenda\n\nSign up for one of our upcoming events at https://btcpp.dev\nWebsite: https://btcpp.dev/\nX: https://x.com/btcplusplus\nNOSTR: https://iris.to/npub1dwah6u025f2yy9dgwlsndntlfy85vf0t2eze5rdg2mxg99k4mucqxz7c52\n#btcplusplus #devconf #bitcoineducation #bitcoinconf #bitcoindev #bitcoinconference #bitcoin #cypherpunks",
+    "date": "2026-01-13",
+    "youtube": {
+        "description": "Design and implementation of Frostsnap, the first FROST signing device - Lloyd Fournier\n\nYou've got to be very careful applying a new cryptographic scheme to an existing problem because it's so easy to make things worse. FROST, the threshold multisignature scheme with applications to Bitcoin, is no different. Lloyd will reveal the tricks the Frostsnap team used to exploit FROST while hiding (most of) the complexity from the user.\n\nRecorded at POPOP in Taipei, Taiwan during bitcoin++ sovereignty edition.\nFull agenda at https://btcpp.dev/conf/taipei#agenda\n\nSign up for one of our upcoming events at https://btcpp.dev\nWebsite: https://btcpp.dev/\nX: https://x.com/btcplusplus\nNOSTR: https://iris.to/npub1dwah6u025f2yy9dgwlsndntlfy85vf0t2eze5rdg2mxg99k4mucqxz7c52\n#btcplusplus #devconf #bitcoineducation #bitcoinconf #bitcoindev #bitcoinconference #bitcoin #cypherpunks",
+        "tags": [
+            "btcplusplus",
+            "devconf",
+            "bitcoineducation",
+            "bitcoinconf",
+            "bitcoindev",
+            "bitcoinconference",
+            "bitcoin",
+            "cypherpunks",
+            "niftynei"
+        ],
+        "categories": [
+            "Entertainment"
+        ]
+    },
+    "deepgram_output": "deepgram_2026-06-26T080948Z.json"
+}
