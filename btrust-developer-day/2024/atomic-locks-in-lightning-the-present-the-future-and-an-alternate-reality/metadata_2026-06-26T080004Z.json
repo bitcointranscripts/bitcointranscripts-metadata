@@ -1,0 +1,27 @@
+{
+    "title": "Atomic Locks in Lightning: The present the future and an alternate reality ",
+    "speakers": null,
+    "tags": null,
+    "type": "video",
+    "loc": "btrust-developer-day/2024",
+    "source_file": "https://youtu.be/zYQLrgbOhqU",
+    "media": "https://youtu.be/zYQLrgbOhqU",
+    "categories": null,
+    "chapters": [],
+    "description": "This session explores the evolution of atomic payments in the Lightning Network, from current HTLCs to the future with PTLCs, and even alternative constructions that preserve privacy and atomicity without Schnorr.\n\nDuncan is a South African open-source Bitcoin developer focused on advancing the Lightning Development Kit (LDK), with recent work on dual-funded channels and splicing. He is a current Btrust grantee.\n\n#Bitcoin #BitcoinDevelopers #BtrustDevDay #Btrust",
+    "date": "2025-04-23",
+    "youtube": {
+        "description": "This session explores the evolution of atomic payments in the Lightning Network, from current HTLCs to the future with PTLCs, and even alternative constructions that preserve privacy and atomicity without Schnorr.\n\nDuncan is a South African open-source Bitcoin developer focused on advancing the Lightning Development Kit (LDK), with recent work on dual-funded channels and splicing. He is a current Btrust grantee.\n\n#Bitcoin #BitcoinDevelopers #BtrustDevDay #Btrust",
+        "tags": [
+            "Btrust",
+            "Btrust Developer Day",
+            "Bitcoin",
+            "Bitcoin Open-Source Development",
+            "Africa Bitcoin Conference"
+        ],
+        "categories": [
+            "Science & Technology"
+        ]
+    },
+    "deepgram_output": "deepgram_2026-06-26T080134Z.json"
+}
