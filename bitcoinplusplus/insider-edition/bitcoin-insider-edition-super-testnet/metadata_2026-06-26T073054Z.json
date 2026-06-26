@@ -1,0 +1,77 @@
+{
+    "title": " Bitcoin++ Insider Edition: Super Testnet",
+    "speakers": null,
+    "tags": null,
+    "type": "video",
+    "loc": "bitcoinplusplus/insider-edition",
+    "source_file": "https://youtu.be/hv9Ckgeal88",
+    "media": "https://youtu.be/hv9Ckgeal88",
+    "categories": null,
+    "chapters": [
+        [
+            "0",
+            0.0,
+            "Intro"
+        ],
+        [
+            "1",
+            177.0,
+            "Filtering Bitcoin Transactions"
+        ],
+        [
+            "2",
+            430.0,
+            "OP_RETURN Data Limits"
+        ],
+        [
+            "3",
+            470.0,
+            "Eternal Battles on Bitcoin"
+        ],
+        [
+            "4",
+            686.0,
+            "HODLing vs. Spending Bitcoin"
+        ],
+        [
+            "5",
+            764.0,
+            "BTC++ Conference Recap"
+        ],
+        [
+            "6",
+            962.0,
+            "Is Arbitrary Data/Spam Subjective?"
+        ],
+        [
+            "7",
+            1118.0,
+            "Transaction Filtering Governance"
+        ],
+        [
+            "8",
+            1316.0,
+            "Privacy on Bitcoin & Lightning"
+        ]
+    ],
+    "description": "niftynei sits down with Super Testnet (@Supertestnet) to talk about the eternal war of spam on bitcoin and how devs can build better fences. \n\nAttend one of our upcoming dev confs https://btcpp.dev\n\nFollow Super Testnet on X: https://x.com/SuperTestnet\n\n00:00 - Intro\n02:57 - Filtering Bitcoin Transactions\n07:10 - OP_RETURN Data Limits\n07:50 - Eternal Battles on Bitcoin\n11:26 - HODLing vs. Spending Bitcoin\n12:44 - BTC++ Conference Recap\n16:02 - Is Arbitrary Data/Spam Subjective?\n18:38 - Transaction Filtering Governance\n21:56 - Privacy on Bitcoin & Lightning\n\nWebsite: https://btcpp.dev/\nX: https://x.com/btcplusplus\nNOSTR: https://iris.to/npub1dwah6u025f2yy9dgwlsndntlfy85vf0t2eze5rdg2mxg99k4mucqxz7c52\nMERCH SHOPPE: https://shop.btcpp.dev\n\n#btcplusplus #devconf #bitcoineducation #bitcoinconf #bitcoindev #bitcoinconference #bitcoin #cypherpunks",
+    "date": "2025-05-22",
+    "youtube": {
+        "description": "niftynei sits down with Super Testnet (@Supertestnet) to talk about the eternal war of spam on bitcoin and how devs can build better fences. \n\nAttend one of our upcoming dev confs https://btcpp.dev\n\nFollow Super Testnet on X: https://x.com/SuperTestnet\n\n00:00 - Intro\n02:57 - Filtering Bitcoin Transactions\n07:10 - OP_RETURN Data Limits\n07:50 - Eternal Battles on Bitcoin\n11:26 - HODLing vs. Spending Bitcoin\n12:44 - BTC++ Conference Recap\n16:02 - Is Arbitrary Data/Spam Subjective?\n18:38 - Transaction Filtering Governance\n21:56 - Privacy on Bitcoin & Lightning\n\nWebsite: https://btcpp.dev/\nX: https://x.com/btcplusplus\nNOSTR: https://iris.to/npub1dwah6u025f2yy9dgwlsndntlfy85vf0t2eze5rdg2mxg99k4mucqxz7c52\nMERCH SHOPPE: https://shop.btcpp.dev\n\n#btcplusplus #devconf #bitcoineducation #bitcoinconf #bitcoindev #bitcoinconference #bitcoin #cypherpunks",
+        "tags": [
+            "btcplusplus",
+            "devconf",
+            "bitcoineducation",
+            "bitcoinconf",
+            "bitcoindev",
+            "bitcoinconference",
+            "bitcoin",
+            "cypherpunks",
+            "niftynei"
+        ],
+        "categories": [
+            "Science & Technology"
+        ]
+    },
+    "deepgram_output": "deepgram_2026-06-26T073155Z.json"
+}
