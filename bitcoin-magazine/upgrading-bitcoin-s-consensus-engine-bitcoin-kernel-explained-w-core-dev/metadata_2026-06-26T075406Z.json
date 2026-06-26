@@ -1,0 +1,89 @@
+{
+    "title": "Upgrading Bitcoin's Consensus Engine: Bitcoin Kernel Explained w/ Core Dev",
+    "speakers": null,
+    "tags": null,
+    "type": "video",
+    "loc": "bitcoin-magazine",
+    "source_file": "https://youtu.be/HDJqsL-f9DA?si=18ZW4fdnojMHEj5Y",
+    "media": "https://youtu.be/HDJqsL-f9DA?si=18ZW4fdnojMHEj5Y",
+    "categories": null,
+    "chapters": [
+        [
+            "0",
+            0.0,
+            "Why Bitcoin Consensus Isolation Matters"
+        ],
+        [
+            "1",
+            298.0,
+            "Why \"libconsensus\" Failed"
+        ],
+        [
+            "2",
+            481.0,
+            "Kernel vs Multi-Process Bitcoin Core"
+        ],
+        [
+            "3",
+            655.0,
+            "Can Developers Build Full Nodes With the Kernel Today?"
+        ],
+        [
+            "4",
+            745.0,
+            "Real-World Kernel Adoption Outside Bitcoin Core"
+        ],
+        [
+            "5",
+            845.0,
+            "How Bitcoin Kernel Validates Blocks"
+        ],
+        [
+            "6",
+            986.0,
+            "Does the Kernel Centralize Power?"
+        ],
+        [
+            "7",
+            1181.0,
+            "Competition, Forking, and Consensus Safety"
+        ],
+        [
+            "8",
+            1279.0,
+            "Could Bitcoin Ever Have a Formal Specification?"
+        ],
+        [
+            "9",
+            1469.0,
+            "The Future of Bitcoin Kernel Development"
+        ]
+    ],
+    "description": "The Bitcoin Kernel project is one of the most misunderstood developments in Bitcoin Core. In this conversation, Shinobi and Sedited explain how isolating validation logic increases flexibility, improves security, and enables alternative node implementations. From multi-process architecture to formal protocol specifications, this episode covers why kernel development matters now. \n\n#Bitcoin #BitcoinDevelopment #BitcoinCore\n\n\u2b50\ufe0f\u2694: SIGN UP WITH DUELBITS TODAY FOR A CHANCE TO WIN UP TO 2 BTC: \ud83d\udc49 https://bm.b.tc/YT-Duelbits #ad \n\n\ud83d\udd36 Shinobi - Technical Editor, Bitcoin Magazine\n\ud83d\udd36 Sedited \u2013 Bitcoin Core Developer\n\nChapters: \n 00:00 \u2013 Why Bitcoin Consensus Isolation Matters\n 04:58 \u2013 Why \"libconsensus\" Failed\n 08:01 \u2013 Kernel vs Multi-Process Bitcoin Core\n 10:55 \u2013 Can Developers Build Full Nodes With the Kernel Today?\n 12:25 \u2013 Real-World Kernel Adoption Outside Bitcoin Core\n 14:05 \u2013 How Bitcoin Kernel Validates Blocks\n 16:26 \u2013 Does the Kernel Centralize Power?\n 19:41 \u2013 Competition, Forking, and Consensus Safety\n 21:19 \u2013 Could Bitcoin Ever Have a Formal Specification?\n 24:29 \u2013 The Future of Bitcoin Kernel Development\n\n#BitcoinKernel #ConsensusRules #BitcoinProtocol #NodeImplementations #BitcoinEngineering #BitcoinMagazine #OpenSourceBitcoin #DecentralizedSystems #BitcoinValidation #BitcoinInfrastructure #BitcoinBuilders\n\nDISCLAIMER: The views and opinions expressed in this show are those of the participants and do not necessarily reflect the official policy or position of BTC Inc., Bitcoin Magazine, or any affiliated entities. This content is provided for informational and educational purposes only and should not be construed as investment, legal, tax, or accounting advice. Nothing contained in this show constitutes a solicitation, recommendation, endorsement, or offer to buy or sell any securities or financial instruments. Viewers should consult their own advisors before making financial or business decisions.",
+    "date": "2026-02-04",
+    "youtube": {
+        "description": "The Bitcoin Kernel project is one of the most misunderstood developments in Bitcoin Core. In this conversation, Shinobi and Sedited explain how isolating validation logic increases flexibility, improves security, and enables alternative node implementations. From multi-process architecture to formal protocol specifications, this episode covers why kernel development matters now. \n\n#Bitcoin #BitcoinDevelopment #BitcoinCore\n\n\u2b50\ufe0f\u2694: SIGN UP WITH DUELBITS TODAY FOR A CHANCE TO WIN UP TO 2 BTC: \ud83d\udc49 https://bm.b.tc/YT-Duelbits #ad \n\n\ud83d\udd36 Shinobi - Technical Editor, Bitcoin Magazine\n\ud83d\udd36 Sedited \u2013 Bitcoin Core Developer\n\nChapters: \n 00:00 \u2013 Why Bitcoin Consensus Isolation Matters\n 04:58 \u2013 Why \"libconsensus\" Failed\n 08:01 \u2013 Kernel vs Multi-Process Bitcoin Core\n 10:55 \u2013 Can Developers Build Full Nodes With the Kernel Today?\n 12:25 \u2013 Real-World Kernel Adoption Outside Bitcoin Core\n 14:05 \u2013 How Bitcoin Kernel Validates Blocks\n 16:26 \u2013 Does the Kernel Centralize Power?\n 19:41 \u2013 Competition, Forking, and Consensus Safety\n 21:19 \u2013 Could Bitcoin Ever Have a Formal Specification?\n 24:29 \u2013 The Future of Bitcoin Kernel Development\n\n#BitcoinKernel #ConsensusRules #BitcoinProtocol #NodeImplementations #BitcoinEngineering #BitcoinMagazine #OpenSourceBitcoin #DecentralizedSystems #BitcoinValidation #BitcoinInfrastructure #BitcoinBuilders\n\nDISCLAIMER: The views and opinions expressed in this show are those of the participants and do not necessarily reflect the official policy or position of BTC Inc., Bitcoin Magazine, or any affiliated entities. This content is provided for informational and educational purposes only and should not be construed as investment, legal, tax, or accounting advice. Nothing contained in this show constitutes a solicitation, recommendation, endorsement, or offer to buy or sell any securities or financial instruments. Viewers should consult their own advisors before making financial or business decisions.",
+        "tags": [
+            "Bitcoin Kernel",
+            "Bitcoin Core development",
+            "Bitcoin consensus",
+            "libconsensus",
+            "Bitcoin validation logic",
+            "Bitcoin node implementations",
+            "Bitcoin protocol",
+            "Bitcoin decentralization",
+            "Bitcoin multi process",
+            "Bitcoin Core architecture",
+            "consensus isolation",
+            "Bitcoin developers",
+            "Bitcoin Magazine",
+            "Shinobi Bitcoin",
+            "Sedited Bitcoin Core",
+            "Bitcoin kernel library"
+        ],
+        "categories": [
+            "News & Politics"
+        ]
+    },
+    "deepgram_output": "deepgram_2026-06-26T075559Z.json"
+}
