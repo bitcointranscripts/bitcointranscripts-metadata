@@ -1,0 +1,97 @@
+{
+    "title": " Inside the \"Kernel Project\" & the Bitcoin Core Development Process w/ Core Dev St\u00e9phan",
+    "speakers": null,
+    "tags": null,
+    "type": "video",
+    "loc": "bitcoin-magazine",
+    "source_file": "https://youtu.be/lEK_cej4AjE?si=VN72CMseVf64wzr5",
+    "media": "https://youtu.be/lEK_cej4AjE?si=VN72CMseVf64wzr5",
+    "categories": null,
+    "chapters": [
+        [
+            "0",
+            0.0,
+            "Introduction to Bitcoin Core & Kernel Project"
+        ],
+        [
+            "1",
+            125.0,
+            "Why Moving Consensus Code Is So Risky"
+        ],
+        [
+            "2",
+            240.0,
+            "Public Interfaces and Real-World Use Cases"
+        ],
+        [
+            "3",
+            360.0,
+            "Tooling, CI, and Developer Experience"
+        ],
+        [
+            "4",
+            440.0,
+            "Multiprocess Architecture Explained"
+        ],
+        [
+            "5",
+            540.0,
+            "Mining Interfaces and Stratum V2"
+        ],
+        [
+            "6",
+            660.0,
+            "Why Bitcoin Core Must Evolve"
+        ],
+        [
+            "7",
+            780.0,
+            "Validation, Testing, and Fuzzing"
+        ],
+        [
+            "8",
+            910.0,
+            "Cross-Module Complexity in Core"
+        ],
+        [
+            "9",
+            1060.0,
+            "Long-Term Maintenance vs New Features"
+        ],
+        [
+            "10",
+            1210.0,
+            "Building Bitcoin for the Next Decades"
+        ],
+        [
+            "11",
+            1350.0,
+            "Closing Thoughts on Bitcoin Core\u2019s Future"
+        ]
+    ],
+    "description": "Bitcoin Core doesn\u2019t stand still even if consensus rules don\u2019t change. In this episode, St\u00e9phan (Core Developer at Brink) explains how the Kernel and multiprocess projects are reshaping Bitcoin Core for long-term reliability. From modular validation logic to safer development workflows, this conversation shows why maintenance work matters. Hosted by Shinobi of Bitcoin Magazine.\n\n#BitcoinCore #BitcoinDevelopment #BitcoinKernel \n\n\u2b50\ufe0f\u2694: SIGN UP WITH DUELBITS TODAY FOR A CHANCE TO WIN UP TO 2 BTC: \ud83d\udc49 https://bm.b.tc/YT-Duelbits #ad \n\n\ud83d\udd36 Shinobi - Technical Editor, Bitcoin Magazine\n\ud83d\udd36 St\u00e9phan- Core Developer at Brink\n\nChapters: \n 00:00 \u2013 Introduction to Bitcoin Core & Kernel Project\n 02:05 \u2013 Why Moving Consensus Code Is So Risky\n 04:00 \u2013 Public Interfaces and Real-World Use Cases\n 06:00 \u2013 Tooling, CI, and Developer Experience\n 07:20 \u2013 Multiprocess Architecture Explained\n 09:00 \u2013 Mining Interfaces and Stratum V2\n 11:00 \u2013 Why Bitcoin Core Must Evolve\n 13:00 \u2013 Validation, Testing, and Fuzzing\n 15:10 \u2013 Cross-Module Complexity in Core\n 17:40 \u2013 Long-Term Maintenance vs New Features\n 20:10 \u2013 Building Bitcoin for the Next Decades\n 22:30 \u2013 Closing Thoughts on Bitcoin Core\u2019s Future\n\n#BitcoinMining #StratumV2 #BitcoinInfrastructure #BitcoinSoftware #OpenSourceBitcoin #BitcoinEngineering #BitcoinMagazine #BitcoinConference #BitcoinNodes #BitcoinSecurity\n\nDISCLAIMER: The views and opinions expressed in this show are those of the participants and do not necessarily reflect the official policy or position of BTC Inc., Bitcoin Magazine, or any affiliated entities. This content is provided for informational and educational purposes only and should not be construed as investment, legal, tax, or accounting advice. Nothing contained in this show constitutes a solicitation, recommendation, endorsement, or offer to buy or sell any securities or financial instruments. Viewers should consult their own advisors before making financial or business decisions.",
+    "date": "2026-02-03",
+    "youtube": {
+        "description": "Bitcoin Core doesn\u2019t stand still even if consensus rules don\u2019t change. In this episode, St\u00e9phan (Core Developer at Brink) explains how the Kernel and multiprocess projects are reshaping Bitcoin Core for long-term reliability. From modular validation logic to safer development workflows, this conversation shows why maintenance work matters. Hosted by Shinobi of Bitcoin Magazine.\n\n#BitcoinCore #BitcoinDevelopment #BitcoinKernel \n\n\u2b50\ufe0f\u2694: SIGN UP WITH DUELBITS TODAY FOR A CHANCE TO WIN UP TO 2 BTC: \ud83d\udc49 https://bm.b.tc/YT-Duelbits #ad \n\n\ud83d\udd36 Shinobi - Technical Editor, Bitcoin Magazine\n\ud83d\udd36 St\u00e9phan- Core Developer at Brink\n\nChapters: \n 00:00 \u2013 Introduction to Bitcoin Core & Kernel Project\n 02:05 \u2013 Why Moving Consensus Code Is So Risky\n 04:00 \u2013 Public Interfaces and Real-World Use Cases\n 06:00 \u2013 Tooling, CI, and Developer Experience\n 07:20 \u2013 Multiprocess Architecture Explained\n 09:00 \u2013 Mining Interfaces and Stratum V2\n 11:00 \u2013 Why Bitcoin Core Must Evolve\n 13:00 \u2013 Validation, Testing, and Fuzzing\n 15:10 \u2013 Cross-Module Complexity in Core\n 17:40 \u2013 Long-Term Maintenance vs New Features\n 20:10 \u2013 Building Bitcoin for the Next Decades\n 22:30 \u2013 Closing Thoughts on Bitcoin Core\u2019s Future\n\n#BitcoinMining #StratumV2 #BitcoinInfrastructure #BitcoinSoftware #OpenSourceBitcoin #BitcoinEngineering #BitcoinMagazine #BitcoinConference #BitcoinNodes #BitcoinSecurity\n\nDISCLAIMER: The views and opinions expressed in this show are those of the participants and do not necessarily reflect the official policy or position of BTC Inc., Bitcoin Magazine, or any affiliated entities. This content is provided for informational and educational purposes only and should not be construed as investment, legal, tax, or accounting advice. Nothing contained in this show constitutes a solicitation, recommendation, endorsement, or offer to buy or sell any securities or financial instruments. Viewers should consult their own advisors before making financial or business decisions.",
+        "tags": [
+            "Bitcoin Core",
+            "Bitcoin Core development",
+            "Bitcoin Kernel project",
+            "Bitcoin multiprocess",
+            "Bitcoin validation logic",
+            "Bitcoin modularity",
+            "Bitcoin software maintenance",
+            "Bitcoin mining interface",
+            "Stratum V2",
+            "Bitcoin developer tooling",
+            "Bitcoin Core architecture",
+            "Bitcoin testing infrastructure",
+            "Bitcoin consensus safety",
+            "Brink Bitcoin"
+        ],
+        "categories": [
+            "News & Politics"
+        ]
+    },
+    "deepgram_output": "deepgram_2026-06-26T075503Z.json"
+}
