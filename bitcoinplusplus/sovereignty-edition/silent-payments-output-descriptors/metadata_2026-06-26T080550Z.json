@@ -1,0 +1,31 @@
+{
+    "title": "Silent Payments Output Descriptors ",
+    "speakers": null,
+    "tags": null,
+    "type": "video",
+    "loc": "bitcoinplusplus/sovereignty-edition",
+    "source_file": "https://youtu.be/QQO0pMQB-QU",
+    "media": "https://youtu.be/QQO0pMQB-QU",
+    "categories": null,
+    "chapters": [],
+    "description": "Silent Payments, Output Descriptors - niftynei\n\nCraig Raw has proposed a new BIP for how to express silent payments as output descriptors. This is a report on the new BIP and what silent payments are.\n\nRecorded at POPOP in Taipei, Taiwan during bitcoin++ sovereignty edition.\nFull agenda at https://btcpp.dev/conf/taipei#agenda\n\nSign up for one of our upcoming events at https://btcpp.dev\nWebsite: https://btcpp.dev/\nX: https://x.com/btcplusplus\nNOSTR: https://iris.to/npub1dwah6u025f2yy9dgwlsndntlfy85vf0t2eze5rdg2mxg99k4mucqxz7c52\n#btcplusplus #devconf #bitcoineducation #bitcoinconf #bitcoindev #bitcoinconference #bitcoin #cypherpunks",
+    "date": "2026-01-17",
+    "youtube": {
+        "description": "Silent Payments, Output Descriptors - niftynei\n\nCraig Raw has proposed a new BIP for how to express silent payments as output descriptors. This is a report on the new BIP and what silent payments are.\n\nRecorded at POPOP in Taipei, Taiwan during bitcoin++ sovereignty edition.\nFull agenda at https://btcpp.dev/conf/taipei#agenda\n\nSign up for one of our upcoming events at https://btcpp.dev\nWebsite: https://btcpp.dev/\nX: https://x.com/btcplusplus\nNOSTR: https://iris.to/npub1dwah6u025f2yy9dgwlsndntlfy85vf0t2eze5rdg2mxg99k4mucqxz7c52\n#btcplusplus #devconf #bitcoineducation #bitcoinconf #bitcoindev #bitcoinconference #bitcoin #cypherpunks",
+        "tags": [
+            "btcplusplus",
+            "devconf",
+            "bitcoineducation",
+            "bitcoinconf",
+            "bitcoindev",
+            "bitcoinconference",
+            "bitcoin",
+            "cypherpunks",
+            "niftynei"
+        ],
+        "categories": [
+            "Entertainment"
+        ]
+    },
+    "deepgram_output": "deepgram_2026-06-26T081051Z.json"
+}
