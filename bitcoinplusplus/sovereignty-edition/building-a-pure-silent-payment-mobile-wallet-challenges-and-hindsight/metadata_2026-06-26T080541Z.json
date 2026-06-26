@@ -1,0 +1,31 @@
+{
+    "title": "Building a pure silent payment mobile wallet: challenges and hindsight",
+    "speakers": null,
+    "tags": null,
+    "type": "video",
+    "loc": "bitcoinplusplus/sovereignty-edition",
+    "source_file": "https://youtu.be/MgoPkXHUH0E",
+    "media": "https://youtu.be/MgoPkXHUH0E",
+    "categories": null,
+    "chapters": [],
+    "description": "Building a pure silent payment mobile wallet: challenges and hindsight - Dana Wallet \n\nSilent Payment is a static payment code scheme that rely on non interactive ECDH operations between sender and recipient(s) of a transaction to generate the scriptpubkeys, which means wallet developers need to totally rethink the way a wallet works. Dana is an attempt at a pure silent payment, privacy preserving mobile wallet, and highlight the main challenges and opportunities that wallet developers will encounter working on silent payment.\n\nRecorded at POPOP in Taipei, Taiwan during bitcoin++ sovereignty edition.\nFull agenda at https://btcpp.dev/conf/taipei#agenda\n\nSign up for one of our upcoming events at https://btcpp.dev\nWebsite: https://btcpp.dev/\nX: https://x.com/btcplusplus\nNOSTR: https://iris.to/npub1dwah6u025f2yy9dgwlsndntlfy85vf0t2eze5rdg2mxg99k4mucqxz7c52\n#btcplusplus #devconf #bitcoineducation #bitcoinconf #bitcoindev #bitcoinconference #bitcoin #cypherpunks",
+    "date": "2026-01-17",
+    "youtube": {
+        "description": "Building a pure silent payment mobile wallet: challenges and hindsight - Dana Wallet \n\nSilent Payment is a static payment code scheme that rely on non interactive ECDH operations between sender and recipient(s) of a transaction to generate the scriptpubkeys, which means wallet developers need to totally rethink the way a wallet works. Dana is an attempt at a pure silent payment, privacy preserving mobile wallet, and highlight the main challenges and opportunities that wallet developers will encounter working on silent payment.\n\nRecorded at POPOP in Taipei, Taiwan during bitcoin++ sovereignty edition.\nFull agenda at https://btcpp.dev/conf/taipei#agenda\n\nSign up for one of our upcoming events at https://btcpp.dev\nWebsite: https://btcpp.dev/\nX: https://x.com/btcplusplus\nNOSTR: https://iris.to/npub1dwah6u025f2yy9dgwlsndntlfy85vf0t2eze5rdg2mxg99k4mucqxz7c52\n#btcplusplus #devconf #bitcoineducation #bitcoinconf #bitcoindev #bitcoinconference #bitcoin #cypherpunks",
+        "tags": [
+            "btcplusplus",
+            "devconf",
+            "bitcoineducation",
+            "bitcoinconf",
+            "bitcoindev",
+            "bitcoinconference",
+            "bitcoin",
+            "cypherpunks",
+            "niftynei"
+        ],
+        "categories": [
+            "Entertainment"
+        ]
+    },
+    "deepgram_output": "deepgram_2026-06-26T080833Z.json"
+}
