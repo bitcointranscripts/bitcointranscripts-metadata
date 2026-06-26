@@ -1,0 +1,31 @@
+{
+    "title": " Crashing Bitcoin Core with Niklas G\u00f6gge's Fuzzamoto",
+    "speakers": null,
+    "tags": null,
+    "type": "video",
+    "loc": "bitcoinplusplus/insider-edition",
+    "source_file": "https://youtu.be/_TsK_3bYpu8",
+    "media": "https://youtu.be/_TsK_3bYpu8",
+    "categories": null,
+    "chapters": [],
+    "description": "Fuzzamoto on GitHub: https://github.com/dergoegge/fuzzamoto\nFuzzamoto intro blog post: https://brink.dev/blog/2026/01/07/fuzzamoto-introduction/\nNiklas on X: https://x.com/dergoegge\n\nSign up for one of our upcoming dev conf at https://btcpp.dev\n\nWebsite: https://btcpp.dev/\nX: https://x.com/btcplusplus\nNOSTR: https://iris.to/npub1dwah6u025f2yy9dgwlsndntlfy85vf0t2eze5rdg2mxg99k4mucqxz7c52\n\n#btcplusplus #devconf #bitcoineducation #bitcoinconf #bitcoindev #bitcoinconference #bitcoin #cypherpunks",
+    "date": "2026-02-10",
+    "youtube": {
+        "description": "Fuzzamoto on GitHub: https://github.com/dergoegge/fuzzamoto\nFuzzamoto intro blog post: https://brink.dev/blog/2026/01/07/fuzzamoto-introduction/\nNiklas on X: https://x.com/dergoegge\n\nSign up for one of our upcoming dev conf at https://btcpp.dev\n\nWebsite: https://btcpp.dev/\nX: https://x.com/btcplusplus\nNOSTR: https://iris.to/npub1dwah6u025f2yy9dgwlsndntlfy85vf0t2eze5rdg2mxg99k4mucqxz7c52\n\n#btcplusplus #devconf #bitcoineducation #bitcoinconf #bitcoindev #bitcoinconference #bitcoin #cypherpunks",
+        "tags": [
+            "btcplusplus",
+            "devconf",
+            "bitcoineducation",
+            "bitcoinconf",
+            "bitcoindev",
+            "bitcoinconference",
+            "bitcoin",
+            "cypherpunks",
+            "niftynei"
+        ],
+        "categories": [
+            "Entertainment"
+        ]
+    },
+    "deepgram_output": "deepgram_2026-06-26T074523Z.json"
+}
